@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eriglesias
-- 👀 I’m interested in Smart Contract and Blockchain development, Cibersecurity, Machine Learning,  Web development , and overall how use technology and systems  to make people lives better.
-- 🌱 I’m currently learning Machine Learning,Blockchain/Smart Contract development and Data Science.
+- 👀 I’m interested in Data Science,  Smart Contract and Blockchain development, Web development,Cibersecurity and overall how use technology and systems  to make people lives better.
+- 🌱 I’m currently learning Data Science using Python and Smart Contracts development using Solidity.
 - 💞️ I’m looking to collaborate on Data Science and Smart Contract  development Projects. 
 - 📫 How to reach me: Hej, looking forward to hear from you, please find me on the following e-mail address: encig@duck.com
 
