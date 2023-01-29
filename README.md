@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriglesias
-- 👀 I’m interested in Data Science, Web development (including 3.0), Cibersecurity and overall how use technology and systems  to make people lives better.
-- 🌱 I’m currently learning Financial Data Analysis using Python and Responsive Web Design.
-- 💞️ I’m looking to collaborate on Data Science and Solidity Projects. 
+- 👀 I’m interested in Web development (including 3.0), Data Science, Cibersecurity and overall how use technology and systems to make people lives better.
+- 🌱 I’m currently learning Financial Data Analysis using Python and JavaScript Algorithms and Data Structures.
+- 💞️ I’m looking to collaborate on Web Development and Datascience Projects. 
 - 📫 How to reach me: Hej, looking forward to hear from you, please find me on the following e-mail address: encig@duck.com
 
 <!---
