@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eriglesias
-- 👀 I’m interested in Web development (including 3.0), Data Science, Cibersecurity and overall how use technology and systems to make people lives better.
-- 🌱 I’m currently learning react and others front-end frameworks  as well as Machine Learning using Python.
-- 💞️ I’m looking to collaborate on Web Development and Datascience Projects. 
+- 👀 I’m interested in Full Stack development (including 3.0), Data Science, Cibersecurity and overall how use technology and systems to make people lives better.
+- 🌱 I’m currently learning relational databses as improving my python code and tinkering with NLP project.
+- 💞️ I’m looking to collaborate on Web Development and Data Science Projects. 
 - 📫 How to reach me: Hej, looking forward to hear from you, please find me on the following e-mail address: encig@duck.com
 
 <!---
